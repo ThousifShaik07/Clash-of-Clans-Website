@@ -23,8 +23,9 @@ A visually rich, fan-made landing page inspired by **Clash of Clans**, featuring
 
 Live preview (optional): [Your GitHub Pages or Netlify Link]
 
-![Screenshot](![image](https://github.com/user-attachments/assets/1ba5f361-e414-4879-9327-eded8adcb3e3)
-)
+![image](https://github.com/user-attachments/assets/ed320fcb-330d-43b6-8532-1cf50dc75ba3)
+
+
 
 ## 📁 Project Structure
 /project-root
