@@ -1,6 +1,6 @@
 # Clash Of Clans — Grand Warden Undertaker
 
-![Grand Warden Undertaker](https://github.com/ThousifShaik07/Clash-of-Clans-Website/blob/main/GrandWarden_wwe_f111_3k_fx.png))
+![Grand Warden Undertaker](https://github.com/ThousifShaik07/Clash-of-Clans-Website/blob/main/GrandWarden_wwe_f111_3k_fx.png)
 
 A visually rich, fan-made landing page inspired by **Clash of Clans**, featuring the powerful *Grand Warden Undertaker* character. This responsive website highlights trending in-game heroes, promotes gameplay, and encourages users to engage through sleek UI/UX design.
 
@@ -23,7 +23,8 @@ A visually rich, fan-made landing page inspired by **Clash of Clans**, featuring
 
 Live preview (optional): [Your GitHub Pages or Netlify Link]
 
-![Screenshot](./6ae12889-e988-46db-807f-707c449895f0.png)
+![Screenshot](![image](https://github.com/user-attachments/assets/1ba5f361-e414-4879-9327-eded8adcb3e3)
+)
 
 ## 📁 Project Structure
 /project-root
