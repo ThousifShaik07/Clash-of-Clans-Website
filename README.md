@@ -21,7 +21,7 @@ A visually rich, fan-made landing page inspired by **Clash of Clans**, featuring
 
 ## 🖼 Preview
 
-Live preview (optional): [Your GitHub Pages or Netlify Link]
+Live preview : [[Your GitHub Pages or Netlify Link]](https://thousifshaik07.github.io/Clash-of-Clans-Website/)
 
 ![image](https://github.com/user-attachments/assets/ed320fcb-330d-43b6-8532-1cf50dc75ba3)
 
