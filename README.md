@@ -31,12 +31,19 @@ Live preview : [[Your GitHub Pages]](https://thousifshaik07.github.io/Clash-of-C
 /project-root
 │
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── assets/
+
 │ ├── images/
+
 │ │ └── grand-warden.png
+
 │ └── fonts/
+
 ├── README.md
 
 
